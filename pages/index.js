@@ -1,20 +1,16 @@
 import React, { Component } from 'react'
-import styled from 'styled-components'
+
 
 
 class index extends Component {
     render () {
         return (
-            <MainCSS>
-            asdfasdfsdf
-            </MainCSS>
+            <div>
+            HELLO. Works on local but can't deploy using any api.
+            </div>
         )
     }
 }
 
 
-const MainCSS = styled.div`
-    display: flex;
-    
-`
 export default index
