@@ -11,8 +11,8 @@
     "url": "git://github.com/lonelydatum/prequilt_vercel.git"
   },
   "scripts": {
-    "dev": "NODE_PATH=. next dev",
-    "build": "NODE_PATH=. next build",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start"
   },
   "author": "Gar Liu <gar@lonelydatum.com> (http://lonelydatum.com/)",
